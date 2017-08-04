@@ -18,6 +18,6 @@ MainWindow::~MainWindow()
 
 void MainWindow::doSomething()
 {
-    msgBox.setText("Hello World");
+    msgBox.setText("Hello Kyler");
     msgBox.show();
 }
