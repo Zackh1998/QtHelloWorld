@@ -18,6 +18,6 @@ MainWindow::~MainWindow()
 
 void MainWindow::doSomething()
 {
-    msgBox.setText("Hello Kyler");
+    msgBox.setText("This is the development branch.");
     msgBox.show();
 }
